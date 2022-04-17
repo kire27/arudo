@@ -45,12 +45,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Github
-
-### git commit -m "message"
-
-Update file changes.
-
-### npm run deploy
-
-To publish website.
