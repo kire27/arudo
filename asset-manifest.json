@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arudo/static/css/main.073c9b0a.css",
+    "main.js": "/arudo/static/js/main.3c20ce53.js",
+    "static/js/787.f93c1973.chunk.js": "/arudo/static/js/787.f93c1973.chunk.js",
+    "index.html": "/arudo/index.html",
+    "main.073c9b0a.css.map": "/arudo/static/css/main.073c9b0a.css.map",
+    "main.3c20ce53.js.map": "/arudo/static/js/main.3c20ce53.js.map",
+    "787.f93c1973.chunk.js.map": "/arudo/static/js/787.f93c1973.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3c20ce53.js"
+  ]
+}
