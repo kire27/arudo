@@ -31,6 +31,7 @@ export default App;
     https://www.youtube.com/watch?v=NjN00cM18Z4
 
     github:
-    git commit -m "message"
-    npm run deploy
+    # git add .
+    # git commit -m "message"
+    # npm run deploy
 */
