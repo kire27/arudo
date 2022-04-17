@@ -33,5 +33,6 @@ export default App;
     github:
     # git add .
     # git commit -m "message"
+    # git push origin master
     # npm run deploy
 */
